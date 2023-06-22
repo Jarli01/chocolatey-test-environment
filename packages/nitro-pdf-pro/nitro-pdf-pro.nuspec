@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>nitro-pdf-pro</id>
+    <version>13.70.4.50</version>
+    <<owners>Jarli01</owners>
+    <title>nitro-pdf-pro (Install)</title>
+    <authors>GoNitro</authors>
+    <projectUrl>https://www.gonitro.com/installers/enterprise/v13/msi/download</projectUrl>
+    <tags>nitro-pdf-pro</tags>
+    <summary>Nitro PDF Pto</summary>
+    <description>Nitro PDF Pro 32/64-bit MSI Commerical - Activation Key Required</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
